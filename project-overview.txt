@@ -1,0 +1,10 @@
+Project: Online Retail Sales and Customer Analytics
+
+Objective:
+Analyze online retail transactions to understand sales trends,
+product performance, customer purchasing patterns, and geographical
+sales performance.
+
+Tools:
+Python, pandas, Matplotlib, Seaborn, Google Colab,
+Power BI, Git, and GitHub.
